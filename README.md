@@ -2,6 +2,16 @@
 
 An unofficial package to help developers to implement ZATCA (Fatoora) QR code required for e-invoicing in KSA
 
+## Installation
+
+```python
+<dependency>
+ <groupId>com.payneteasy</groupId>
+ <artifactId>ber-tlv</artifactId>
+ <version>1.0-11</version>
+</dependency>
+```
+
 ## Generate QR code
 
 ```python
